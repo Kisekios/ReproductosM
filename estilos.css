@@ -29,8 +29,8 @@ html {
     cursor: pointer;
 }
 
-.play,
-.pause,
+.playOrPause,
 .download {
     flex: 1px;
+    cursor: pointer;
 }
